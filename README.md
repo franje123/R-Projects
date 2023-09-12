@@ -1,2 +1,2 @@
 # R Projects
-# Explanations are provided in the comments. 
+# Explanations are provided in the files' comments. 
